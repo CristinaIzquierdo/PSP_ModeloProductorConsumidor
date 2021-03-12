@@ -8,7 +8,7 @@ public class PilaNumeros {
 //CONSTRUCTOR
 	public PilaNumeros(int size) {
 		this.size = size;
-		PilaNumeros.numeros = new ArrayList<>(size); 	//Le pongo un tamaño fijo al array, lo limito
+		PilaNumeros.numeros = new ArrayList<>(size); 	//Le pongo un tamaño fijo al array
 	}
 	
 //METODOS
